@@ -24,11 +24,11 @@ Feel free to check it out and contribute if you'd like to improve it further! ðŸ
 - **Hosting**: Kubio and wordpress
 
 
-![Homepage](https://github.com/akl-leul/Brightmindguides/blob/main/screenshot%101.PNG)
+![Homepage](https://github.com/akl-leul/Brightmindguides/blob/main/screenshot%201.PNG)
 
 ![Homepage](https://github.com/akl-leul/Brightmindguides/blob/main/screenshot%202.PNG)
 
-![Homepage](https://github.com/akl-leul/Brightmindguides/blob/main/screenshot%303.PNG)
+![Homepage](https://github.com/akl-leul/Brightmindguides/blob/main/screenshot%203.PNG)
 #### Contributions  
 Contributions are welcome! Please fork the repository and submit a pull request to suggest improvements.  
 
