@@ -23,6 +23,12 @@ Feel free to check it out and contribute if you'd like to improve it further! ðŸ
 - **Frontend**: Kubio ai  
 - **Hosting**: Kubio and wordpress
 
+
+![Homepage](screenshot 1.PNG)
+
+![Homepage](screenshot 2.PNG)
+
+![Homepage](screenshot 3.PNG)
 #### Contributions  
 Contributions are welcome! Please fork the repository and submit a pull request to suggest improvements.  
 
